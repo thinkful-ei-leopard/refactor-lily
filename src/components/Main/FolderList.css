@@ -1,0 +1,20 @@
+.folder-list-div li {
+    border: solid 1px black;
+    padding: 1em;
+    margin-top: .2em;
+    text-align: center;
+}
+
+.folder-list-div button {
+    margin-left: 30%;
+}
+
+.folder-list-div ul {
+    list-style: none;
+}
+
+.folder-list-div {
+    display: inline-block;
+    width: 35%;
+    vertical-align: top;
+}
